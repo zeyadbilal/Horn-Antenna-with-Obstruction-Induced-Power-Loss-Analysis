@@ -128,13 +128,3 @@ horn-antenna-hfss/
 3. C.A. Balanis, *Antenna Theory: Analysis and Design*, 4th ed., Wiley, 2016.
 
 ---
-
-## 🎓 CV Bullet Points
-
-> Ready-to-use descriptions for your resume or LinkedIn:
-
-- Designed and simulated a **pyramidal horn antenna** at 5 GHz using Ansys HFSS, achieving ~27 dB peak gain with a radiation efficiency of ~1.04 and a front-to-back ratio exceeding 470.
-- Modeled the full antenna geometry (waveguide feed, flared aperture, radiation box) from scratch using HFSS parametric modeling tools and assigned wave port excitation with TE10 mode integration lines.
-- Performed S-parameter analysis and far-field radiation pattern extraction using HFSS frequency sweep and infinite sphere setup across the 4–8 GHz band.
-- Conducted **obstruction-induced power loss analysis** by placing a lossy dielectric block (FR4_epoxy, εᵣ = 4.4, tan δ = 0.02) in front of the antenna aperture and computing volume and surface loss densities using the HFSS Fields Calculator.
-- Quantified dielectric volume loss (~0.8 mW) and metallic surface ohmic loss (~71.9 mW) through volume and surface integration, demonstrating the impact of material obstacles on antenna efficiency.
